@@ -1,4 +1,3 @@
-//319086435
 package collision;
 
 import interfaces.Collidable;

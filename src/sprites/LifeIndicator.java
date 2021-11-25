@@ -1,4 +1,3 @@
-//319086435
 package sprites;
 
 import biuoop.DrawSurface;

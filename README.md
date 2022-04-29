@@ -5,3 +5,7 @@ press "p" in order to pause and then space to continue.
 game is over when you reach the final level or you lose all of the game balls.
 Enjoy!
 
+
+
+https://user-images.githubusercontent.com/92650578/165938210-98bb5d02-8b03-4821-a584-e2230620a4e7.mp4
+

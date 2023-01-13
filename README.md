@@ -1,4 +1,4 @@
-## Arkanoid Game
+# Arkanoid Game
 
 Welcome to our Arkanoid game! This game was developed as an assignment for an Object-Oriented Programming course using Java. It features four exciting levels, each with its own unique challenges.
 

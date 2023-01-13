@@ -1,4 +1,5 @@
-##Arkanoid Game
+## Arkanoid Game
+
 Welcome to our Arkanoid game! This game was developed as an assignment for an Object-Oriented Programming course using Java. It features four exciting levels, each with its own unique challenges.
 
 In this game, you control a paddle at the bottom of the screen and use it to deflect a ball towards blocks at the top of the screen. Each block you break earns you 10 points, and an extra 100 points are earned for each level that you pass.
